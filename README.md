@@ -2,7 +2,7 @@
 
 - 👋 Olá! Eu sou samuca! Tenho 20 anos e moro em Campinas.
 
-- ✏️ Sou um estudante (vestibulando na verdade) e pretendo me graduar em Geologia. 
+- ✏️ Sou um estudante de graduação no curso de Geologia na Unicamp.
 
 - 😃 Pronome: Ele/Dele
 
