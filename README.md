@@ -8,7 +8,7 @@
 
 - 👀 Eu me interesso por várias coisas na verdade... Desde programação Web, Data science, Machine Learning, Automação e Geologia, claro.
 
-- 📕  Atualmente estou aprendendo Frontend com CSS3, HTML5 e JavaScript e em breve pretendo aprender Backend e algumas bibliotecas para Game Dev.
+- 📕  Atualmente estou aprendendo Frontend com CSS3, HTML5 e JavaScript e em breve pretendo aprender Backend e algumas bibliotecas para Game Dev e Data Science.
 
 ##
 
