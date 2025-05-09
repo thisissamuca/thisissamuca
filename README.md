@@ -1,6 +1,6 @@
 ## Salve, família! Sou o Samuel, mas pode me chamar de Samuca se quiser.
 
-- 👋 Olá! Eu sou samuca! Tenho 23 anos e moro em Campinas.
+- 👋 Olá! Eu sou samuca! Tenho 24 anos e moro em Campinas.
 
 - ✏️ Sou um estudante de graduação no curso de Geologia na Unicamp.
 
